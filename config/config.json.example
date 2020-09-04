@@ -1,0 +1,36 @@
+{
+    "DISCORD_BOT" : {
+        "TOKEN" : "",
+        "everyoneMention": false,
+        "hostedBy": true
+    },
+    "ERELA" : {
+        "HOST" : "",
+        "PORT" : ,
+        "PASSWORD" : ""
+    },
+    "MYSQL" : {
+        "USER" : "",
+        "PASS" : "",
+        "NAME" : ""
+    },
+    "GOOGLE" : {
+        "CSE" : "",
+        "API" : ""
+    },
+    "DBL" : {
+        "TOKEN": ""
+    },
+    "GMAIL" : {
+        "USER": "",
+        "PASS": "",
+        "MYUSER": "",
+        "STAFFUSER": ""
+    },
+    "GENIUS" : {
+        "TOKEN": ""
+    },
+    "STEAM" : {
+        "APIKEY": ""
+    }
+}
